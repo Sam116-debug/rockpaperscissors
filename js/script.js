@@ -11,9 +11,9 @@ $(".play").click(function(){
   
 let userchoice = $(".input").val();
   $(".userchoice").text(userchoice);
-               
-               
-               
+              
+  if (randomNumber)
+    
                
                
 })
